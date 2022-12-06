@@ -1,0 +1,15 @@
+/Users/student/Desktop/Triangle.Solution/Triangle/obj/Debug/net6.0/Triangle.csproj.AssemblyReference.cache
+/Users/student/Desktop/Triangle.Solution/Triangle/obj/Debug/net6.0/Triangle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/student/Desktop/Triangle.Solution/Triangle/obj/Debug/net6.0/Triangle.AssemblyInfoInputs.cache
+/Users/student/Desktop/Triangle.Solution/Triangle/obj/Debug/net6.0/Triangle.AssemblyInfo.cs
+/Users/student/Desktop/Triangle.Solution/Triangle/obj/Debug/net6.0/Triangle.csproj.CoreCompileInputs.cache
+/Users/student/Desktop/Triangle.Solution/Triangle/bin/Debug/net6.0/Triangle.deps.json
+/Users/student/Desktop/Triangle.Solution/Triangle/bin/Debug/net6.0/Triangle.dll
+/Users/student/Desktop/Triangle.Solution/Triangle/bin/Debug/net6.0/Triangle.pdb
+/Users/student/Desktop/Triangle.Solution/Triangle/obj/Debug/net6.0/Triangle.dll
+/Users/student/Desktop/Triangle.Solution/Triangle/obj/Debug/net6.0/refint/Triangle.dll
+/Users/student/Desktop/Triangle.Solution/Triangle/obj/Debug/net6.0/Triangle.pdb
+/Users/student/Desktop/Triangle.Solution/Triangle/obj/Debug/net6.0/ref/Triangle.dll
+/Users/student/Desktop/Triangle.Solution/Triangle/bin/Debug/net6.0/Triangle
+/Users/student/Desktop/Triangle.Solution/Triangle/bin/Debug/net6.0/Triangle.runtimeconfig.json
+/Users/student/Desktop/Triangle.Solution/Triangle/obj/Debug/net6.0/Triangle.genruntimeconfig.cache
